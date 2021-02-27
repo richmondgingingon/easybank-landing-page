@@ -92,7 +92,6 @@ body {
   font-size: 1.125rem;
   font-weight: 300;
   color: #9698a6;
-  min-height: 300vh;
 }
 
 @media (min-width: 64rem) {
